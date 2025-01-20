@@ -122,5 +122,5 @@ KMeans++ is now the default initialization method in most modern libraries (e.g.
 
 
 # Practical Example
-See the practical example in the video and the practical notebook in the practical folder.  
+See the practical example in the video and the practical notebook **[here](./practical/k_means_clustering.ipynb)**.  
 **Watch the video: [▶️](https://www.udemy.com/course/machinelearning/learn/lecture/19509906#content)**
