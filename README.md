@@ -3,8 +3,8 @@
 Welcome to the **Machine Learning Practice** repository! This project serves as a collection of exercises, notes, and implementations from the machine learning course I am currently taking on Udemy. As I progress, I will be updating this repository with more examples, models, and insights.
 
 ## Contents
-- [K-Means Clustering](#)
-- [Hierarchical Clustering](#)
+- [K-Means Clustering](./clustering/Kmeans-clustering/)
+- [Hierarchical Clustering](./clustering/hierarchical-clustering/)
 - More topics coming soon!
 
 ## About
