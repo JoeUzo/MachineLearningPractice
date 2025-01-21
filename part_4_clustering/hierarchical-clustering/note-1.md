@@ -127,3 +127,4 @@ The results of hierarchical clustering can be visualized using a **dendrogram**,
 # Practical Example
 See the practical example in the video and the practical notebook **[here](./practical/hierarchical_clustering.ipynb)**.  
 **Watch the video: [▶️](https://www.udemy.com/course/machinelearning/learn/lecture/19534146#content)**
+
