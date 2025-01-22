@@ -91,18 +91,7 @@ Imagine a scenario with 3 slot machines:
 3. **Clinical Trials**:
    - Allocating resources to test different treatments.
 
----
-
-The UCB algorithm is a simple yet powerful tool for solving problems involving uncertainty and the need for adaptive decision-making. Let me know if you'd like a code example!
-
-
-
-
-
-
-
-
 
 # Practical Example
 See the practical example in the video and the practical notebook **[here](./practical/hierarchical_clustering.ipynb)**.  
-**Watch the video: [▶️](https://www.udemy.com/course/machinelearning/learn/lecture/19806856#content)**
+**Watch the video: [▶️](https://www.udemy.com/course/machinelearning/learn/lecture/19875724#content)**
