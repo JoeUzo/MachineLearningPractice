@@ -3,8 +3,14 @@
 Welcome to the **Machine Learning Practice** repository! This project serves as a collection of exercises, notes, and implementations from the machine learning course I am currently taking on Udemy. As I progress, I will be updating this repository with more examples, models, and insights.
 
 ## Contents
-- [K-Means Clustering](./part_4_clustering/Kmeans-clustering/)
-- [Hierarchical Clustering](./part_4_clustering/hierarchical-clustering/)
+- [CLustering](./part_4_clustering/)
+    - [K-Means Clustering](./part_4_clustering/section_1_kmeans-clustering/)
+    - [Hierarchical Clustering](./part_4_clustering/section_2_hierarchical-clustering/)
+- [Associating Rule Learning](./part_5_associating_rule_learning/)
+    - [Apriori](./part_5_associating_rule_learning/section_1_apriori/)
+    - [Eclat](./part_5_associating_rule_learning/section_2_eclat/)
+- [Reinforcement Learning](./part_6_reinforcement_learning/)
+    - [Upper Confidence Bound (UCB)](./part_6_reinforcement_learning/section_1_upper_confidence_bound/)
 - More topics coming soon!
 
 ## About
