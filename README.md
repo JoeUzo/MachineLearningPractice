@@ -11,6 +11,7 @@ Welcome to the **Machine Learning Practice** repository! This project serves as 
     - [Eclat](./part_5_associating_rule_learning/section_2_eclat/)
 - [Reinforcement Learning](./part_6_reinforcement_learning/)
     - [Upper Confidence Bound (UCB)](./part_6_reinforcement_learning/section_1_upper_confidence_bound/)
+    - [Thompson Sampling](./part_6_reinforcement_learning/section_2_thompson_sampling/)
 - More topics coming soon!
 
 ## About
